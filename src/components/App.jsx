@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./firebase";
+import "../firebase";
 import firebase from "firebase";
 import firebaseui from "firebaseui";
 import {
